@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <hr>
+    <h1 style="font-family: Segoe UI; background-color: black; color: aliceblue;">FIQUE POR DENTRO DAS CORNUTÍCIAS!</h1>
+    <p target="_blank" style="font-size: 30px; font-family:Segoe UI"><b>Seu cornu safaadu hehe<b></p>
+    <hr>
+
+    <a target="_blank" href="https://arena.rtp.pt/ubisoft-revela-circuito-esports-brawlhalla/" style="font-family: Segoe UI; font-size: 30px;"><b>BRAWLHALLA E-SPORTS</b><br><img src="https://arena.rtp.pt/wp-content/uploads/2023/01/brawlhalla-year-8-860x507-1.jpg" alt="Brawlhalla E-Sports" height="240" width="428"></a>
+    <p style="font-size: 12px; padding-left:30px">Brawlhalla Esports Year Eight is here and features a total prize pool of $1,000,000!</p>
+
+    <a target="_blank" href="https://playzuando.com.br/pubg-mobile-pro-league-brasil-spring-2023/" style="font-family: Segoe UI; font-size: 30px;"><b>PUBG Mobile Pro League</b><br><img src="https://playzuando.com.br/wp-content/uploads/2023/05/b0a5ce23-e316-4b9a-a53f-35fc91d7f2e3-850x491.png" alt="PUBG Mobile Pro League" height="240" width="428"></a>
+    <p style="font-size: 12px; padding-left:30px">Tricampeã brasileira, Alpha 7 leva o título do PUBG MOBILE Pro League Brasil <br>
+        Spring 2023. A equipe, Alpha 7 é a grande vencedora da PUBG MOBILE Pro <br>
+        League, ficando no topo da tabela com 210 pontos, 6 vitórias e 115 abates.</p>
+
+    <a target="_blank" href="https://pop.proddigital.com.br/noticias/noticias-de-games/liga-americana-de-lol" style="font-family: Segoe UI; font-size: 30px;"><b>Liga Americana de LoL pode ter greve de jogadores</b><br><img src="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/02-19-1024x683.jpg" alt="Liga de LOL" height="240" width="428"></a>
+    <p style="font-size: 12px; padding-left:30px">Recentemente a Riot Games revelou que agora não será obrigatório que os clubes <br>
+         mantenham equipes na North American Challengers League (NACL).</p>
+
+    <h2>Notícias mais pesquisadas</h2>
+    <ol>
+        <li><a target="_blank" href="https://www.cnnbrasil.com.br/eleicoes">Eleições</a></li>
+        <li><a target="_blank" href="https://www.cnnbrasil.com.br/tudo-sobre/copa-do-mundo/">Copa Do Mundo</a></li>
+        <li><a target="_blank" href="https://www.cnnbrasil.com.br/tudo-sobre/campeonato-brasileiro/">Campeonato Brasileiro</a></li>
+        <li><a target="_blank" href="https://www.cnnbrasil.com.br/esporte/nos-penaltis-flamengo-derrota-corinthians-e-conquista-a-copa-do-brasil/">Flamengo derrota Corinthians e conquista a Copa do Brasil</a></li>
+    </ol>
+
+    <br>
+    <h3>Esse site foi desenvolvido por:</h3>
+
+    <ul>
+        <li>Mario Oliveira dos Santos</li>
+    </ul>
+
+</body>
+</html>
